@@ -1,0 +1,10 @@
+.container {
+    display: grid;
+    width: 100vw;
+    grid-template-rows: 200px 500px 200px;
+}
+
+#ImagePicker, #MemePreview, #TextInputs {
+    border: 2px solid black;
+}
+
